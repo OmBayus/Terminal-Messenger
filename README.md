@@ -1,5 +1,7 @@
 # Terminal Messenger
 
+This is a chat application.
+<br/>
 It runs in terminal and is written in pure javascript, Graphql and MongoDB.
 
 ## Technologies used:
